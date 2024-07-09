@@ -1,0 +1,2 @@
+2024/07/09 11:02:27 [error] 187#187: *92 connect() failed (111: Connection refused) while connecting to upstream, client: 158.23.136.26, server: db.splltd.net, request: "GET / HTTP/2.0", upstream: "http://172.18.0.5:8080/", host: "db.splltd.net"
+2024/07/09 11:02:27 [error] 187#187: *92 connect() failed (111: Connection refused) while connecting to upstream, client: 158.23.136.26, server: db.splltd.net, request: "GET /favicon.ico HTTP/2.0", upstream: "http://172.18.0.5:8080/favicon.ico", host: "db.splltd.net", referrer: "https://db.splltd.net/"
